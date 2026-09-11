@@ -7,7 +7,10 @@ I'm pursuing my Master's in Health Technology and Data Science, building on a Ba
 - 🔍 Making AI models explainable (Grad-CAM, attention visualization)
 - ⚡ Compressing models for real-world, on-device deployment (INT8 quantization)
 
-**What I'm building right now:**
+🎯 **Currently**
+Working on my dissertation — explainable AI applied to ultrasound imaging.
+
+**What I want to build in future:**
 A vision-language model project that checks whether radiology reports actually match their X-ray images — flagging mismatches and explaining *why* using visual heatmaps.
 
 **Where I want to go:**
