@@ -1,17 +1,16 @@
-### Hi, I'm Shreya 👋
+### Hey, I'm Shreya 👋
 
-MSc student in Health Technology and Data Science at JSS Academy of Higher Education and Research, building on a BSc in Medical Imaging Technology.
+I'm pursuing my Master's in Health Technology and Data Science, building on a Bachelor's in Medical Imaging Technology — so I sit right at the intersection of medicine and machine learning.
 
-🔬 **Focus areas**
-- CNN-based medical image classification
-- Explainable AI (Grad-CAM) for imaging models
-- Model compression (INT8 quantization) for edge deployment
-- Transfer learning across imaging domains
+**What I work on:**
+- 🧠 Deep learning for medical image analysis (CNNs, transfer learning)
+- 🔍 Making AI models explainable (Grad-CAM, attention visualization)
+- ⚡ Compressing models for real-world, on-device deployment (INT8 quantization)
 
-🎯 **Currently**
-Working on my dissertation — explainable AI applied to ultrasound imaging.
+**What I'm building right now:**
+A vision-language model project that checks whether radiology reports actually match their X-ray images — flagging mismatches and explaining *why* using visual heatmaps.
 
-💼 **Interested in**
-Roles in health-tech engineering at companies building diagnostic imaging tools.
+**Where I want to go:**
+I'm aiming for engineering roles at health-tech companies building diagnostic imaging tools — think GE Healthcare, Siemens Healthineers, Philips.
 
-📫 Reach me via [LinkedIn] or check my pinned repos below.
+📫 Let's connect: [LinkedIn link here]
